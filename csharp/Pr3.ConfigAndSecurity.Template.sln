@@ -1,0 +1,27 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr3.ConfigAndSecurity", "src\Pr3.ConfigAndSecurity\Pr3.ConfigAndSecurity.csproj", "{A9D4B0AA-6F4F-4C8D-8D08-7738A5E1BC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pr3.ConfigAndSecurity.Tests", "tests\Pr3.ConfigAndSecurity.Tests\Pr3.ConfigAndSecurity.Tests.csproj", "{B4B1B85D-7D61-4C4E-8C3C-77C4E8266E8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9D4B0AA-6F4F-4C8D-8D08-7738A5E1BC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9D4B0AA-6F4F-4C8D-8D08-7738A5E1BC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9D4B0AA-6F4F-4C8D-8D08-7738A5E1BC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9D4B0AA-6F4F-4C8D-8D08-7738A5E1BC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4B1B85D-7D61-4C4E-8C3C-77C4E8266E8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4B1B85D-7D61-4C4E-8C3C-77C4E8266E8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4B1B85D-7D61-4C4E-8C3C-77C4E8266E8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4B1B85D-7D61-4C4E-8C3C-77C4E8266E8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
